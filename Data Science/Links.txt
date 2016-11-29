@@ -1,0 +1,6 @@
+
+Cool tutorial on using MapReduce with NodeJS: 
+
+https://www.packtpub.com/books/content/introduction-using-nodejs-hadoops-mapreduce-jobs
+
+
