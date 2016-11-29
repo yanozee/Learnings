@@ -1,6 +1,22 @@
 
-Cool tutorial on using MapReduce with NodeJS: 
+NodeJS MapReduce: 
 
-https://www.packtpub.com/books/content/introduction-using-nodejs-hadoops-mapreduce-jobs
+	https://www.packtpub.com/books/content/introduction-using-nodejs-hadoops-mapreduce-jobs
+
+
+
+
+Amazon EMR:
+
+	AWS getting started:
+ 		https://aws.amazon.com/emr/getting-started/
+
+	Technical intro to Amazon Elastic MapReduce:
+		https://www.youtube.com/watch?v=WnFYoiRqEHw&feature=youtu.be&list=PLhr1KZpdzukdsblOEVXrCYtvUsDakzYJI
+
+	Samples:
+		https://github.com/awslabs/data-pipeline-samples
+
+
 
 

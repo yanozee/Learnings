@@ -1,0 +1,18 @@
+
+NodeJS Environment / Setup:
+	
+	Node Version Manager:
+		https://github.com/creationix/nvm
+
+
+NodeJS MSSQL package:
+
+	http://www.dotnetcurry.com/nodejs/1238/connect-sql-server-nodejs-mssql-package
+
+	https://github.com/patriksimek/node-mssql
+
+	Table-Value Parameters:
+		https://libraries.io/npm/node-mssql-test#tvp
+		https://msdn.microsoft.com/en-CA/library/bb510489.aspx
+
+
