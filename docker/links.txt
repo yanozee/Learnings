@@ -1,0 +1,8 @@
+
+
+Automating Docker Logging: ElasticSearch, Logstash, Kibana, and Logspout
+
+  https://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/
+
+
+
