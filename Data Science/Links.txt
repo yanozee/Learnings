@@ -20,3 +20,18 @@ Amazon EMR:
 
 
 
+Data Streams:
+
+	Kafka/Spark:
+		https://berlinbuzzwords.de/14/session/real-time-map-reduce-exploring-clickstream-analytics-spark-streaming-kafka-and-websockets
+
+
+
+Analytics / Tools:
+
+	Anaconda Fusion (Excel plugin?):
+
+		http://go.continuum.io/anaconda-fusion/
+
+
+
